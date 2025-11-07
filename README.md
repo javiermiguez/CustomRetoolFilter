@@ -37,6 +37,14 @@ Actualmente pide un `.dat` concreto para filtralo, pero quero engadir algunhas o
 
 ---
 
+## Dependencias
+
+Este proxecto emprega [**Retool**](https://github.com/unexpectedpanda/retool), unha ferramenta de código aberto utilizada para filtrar e xestionar ficheiros `.dat` de **No-Intro** e **Redump**.  
+
+O programa require ter **Python** e **Retool** instalados localmente, xa que chama directamente ao script `Retool.py` para realizar o procesado.
+
+---
+
 ## Licenza
 
 Este proxecto publícase baixo a licenza **MIT**.
@@ -80,6 +88,14 @@ At the moment, it takes a single `.dat` file to process, but future plans includ
 
 - **C# (.NET)**
 - **Retool CLI**
+
+---
+
+## Dependencies
+
+This project uses [**Retool**](https://github.com/unexpectedpanda/retool), an open-source tool used to filter and manage `.dat` files from **No-Intro** and **Redump**.  
+
+The program requires **Python** and **Retool** to be installed locally, since it directly calls the `Retool.py` script for processing.
 
 ---
 
